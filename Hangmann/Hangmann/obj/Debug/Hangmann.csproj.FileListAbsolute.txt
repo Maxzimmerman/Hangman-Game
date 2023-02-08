@@ -1,0 +1,8 @@
+C:\Users\Anwender\source\repos\Hangmann\Hangmann\bin\Debug\Hangmann.exe.config
+C:\Users\Anwender\source\repos\Hangmann\Hangmann\bin\Debug\Hangmann.exe
+C:\Users\Anwender\source\repos\Hangmann\Hangmann\bin\Debug\Hangmann.pdb
+C:\Users\Anwender\source\repos\Hangmann\Hangmann\obj\Debug\Hangmann.csproj.AssemblyReference.cache
+C:\Users\Anwender\source\repos\Hangmann\Hangmann\obj\Debug\Hangmann.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anwender\source\repos\Hangmann\Hangmann\obj\Debug\Hangmann.csproj.CoreCompileInputs.cache
+C:\Users\Anwender\source\repos\Hangmann\Hangmann\obj\Debug\Hangmann.exe
+C:\Users\Anwender\source\repos\Hangmann\Hangmann\obj\Debug\Hangmann.pdb
